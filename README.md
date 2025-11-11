@@ -4,7 +4,7 @@
 <p align="center" class="one">
 <a href="https://www.linkedin.com/in/manoranjan-a-921938356/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Mano-Blockchain-Tech/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
-<a href="https://https://www.naukri.com/MANORANJAN"><img alt="Naukri" title="Naukri" src="https://img.shields.io/badge/naukri-black?style=for-the-badge&logo=Naukri&logoColor=white"/></a>
+<a href="https://www.naukri.com/mnjuser/homepage?utm_source=google&utm_medium=cpc&utm_campaign=Brand)"><img alt="Naukri" title="Naukri" src="https://img.shields.io/badge/naukri-black?style=for-the-badge&logo=Naukri&logoColor=white"/></a>
 </p>
 
 <br/>
